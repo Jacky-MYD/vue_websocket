@@ -1,0 +1,44 @@
+.friends_page {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  right: 0;
+}
+.friends_page .friends {
+  padding: 0 15px;
+}
+.friends_page .friends .friend_item {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+}
+.friends_page .friends .friend_item .avatar {
+  position: relative;
+}
+.friends_page .friends .friend_item .avatar img {
+  overflow: hidden;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  background: url('../../images/avatar.jpg') no-repeat;
+  background-size: contain;
+}
+.friends_page .friends .friend_item .avatar .reads {
+  position: absolute;
+  top: -10px;
+  width: 16px;
+  height: 16px;
+  text-align: center;
+  border-radius: 50px;
+  font-size: 12px;
+  background: red;
+  color: #fff;
+}
+.friends_page .friends .friend_item .item_name {
+  overflow: hidden;
+  margin-left: 10px;
+  width: 50%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+/*# sourceMappingURL=./friends.css.map */

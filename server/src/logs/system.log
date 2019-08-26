@@ -1,0 +1,1825 @@
+[2019/08/22:10.33.09] INFO file - creating pool
+
+[2019/08/22:10.33.09] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.33.09] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.33.30] ERROR file - template file not exist : index.html
+
+[2019/08/22:10.33.30] ERROR file - { NotFoundError: template file not exist : index.html
+    at Object.throw (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.render.fileName [as render] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/middleware/tpl.js:20:30)
+    at router.get.ctx (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/client.js:32:13)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-compose/index.js:42:32) message: 'template file not exist : index.html' }
+
+[2019/08/22:10.35.29] ERROR file - template file not exist : index.html
+
+[2019/08/22:10.35.29] ERROR file - { NotFoundError: template file not exist : index.html
+    at Object.throw (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.render.fileName [as render] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/middleware/tpl.js:20:30)
+    at router.get.ctx (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/client.js:32:13)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-compose/index.js:42:32) message: 'template file not exist : index.html' }
+
+[2019/08/22:10.35.47] ERROR file - template file not exist : index.html
+
+[2019/08/22:10.35.47] ERROR file - { NotFoundError: template file not exist : index.html
+    at Object.throw (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.render.fileName [as render] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/middleware/tpl.js:20:30)
+    at router.get.ctx (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/client.js:32:13)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-compose/index.js:42:32) message: 'template file not exist : index.html' }
+
+[2019/08/22:10.37.32] ERROR file - template file not exist : index.html
+
+[2019/08/22:10.37.32] ERROR file - { NotFoundError: template file not exist : index.html
+    at Object.throw (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.render.fileName [as render] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/middleware/tpl.js:20:30)
+    at router.get.ctx (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/client.js:32:13)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-compose/index.js:42:32) message: 'template file not exist : index.html' }
+
+[2019/08/22:10.38.11] ERROR file - 404 Not Found : http://localhost:3000/login?cache-bust=1566441491751
+
+[2019/08/22:10.38.20] ERROR file - 404 Not Found : http://localhost:3001/login
+
+[2019/08/22:10.39.06] ERROR file - template file not exist : index.html
+
+[2019/08/22:10.39.06] ERROR file - { NotFoundError: template file not exist : index.html
+    at Object.throw (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.render.fileName [as render] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/middleware/tpl.js:20:30)
+    at router.get.ctx (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/client.js:32:13)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-compose/index.js:42:32) message: 'template file not exist : index.html' }
+
+[2019/08/22:10.39.21] ERROR file - template file not exist : index.html
+
+[2019/08/22:10.39.21] ERROR file - { NotFoundError: template file not exist : index.html
+    at Object.throw (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.render.fileName [as render] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/middleware/tpl.js:20:30)
+    at router.get.ctx (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/client.js:32:13)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-compose/index.js:42:32) message: 'template file not exist : index.html' }
+
+[2019/08/22:10.41.56] INFO file - ====== execute sql ======
+
+[2019/08/22:10.41.56] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.41.56] ERROR file - { Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Protocol._enqueue (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:119:18)
+    at Pool.getConnection (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:48:16)
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:202:8)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+  code: 'ER_ACCESS_DENIED_ERROR',
+  errno: 1045,
+  sqlMessage:
+   'Access denied for user \'root\'@\'localhost\' (using password: YES)',
+  sqlState: '28000',
+  fatal: true }
+
+[2019/08/22:10.42.19] INFO file - ====== execute sql ======
+
+[2019/08/22:10.42.19] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.42.19] ERROR file - { Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Protocol._enqueue (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:119:18)
+    at Pool.getConnection (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:48:16)
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:202:8)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+  code: 'ER_ACCESS_DENIED_ERROR',
+  errno: 1045,
+  sqlMessage:
+   'Access denied for user \'root\'@\'localhost\' (using password: YES)',
+  sqlState: '28000',
+  fatal: true }
+
+[2019/08/22:10.43.16] INFO file - creating pool
+
+[2019/08/22:10.43.17] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.43.17] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.43.20] INFO file - ====== execute sql ======
+
+[2019/08/22:10.43.20] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.43.20] ERROR file - { Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Protocol._enqueue (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:119:18)
+    at Pool.getConnection (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:48:16)
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:202:8)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+  code: 'ER_ACCESS_DENIED_ERROR',
+  errno: 1045,
+  sqlMessage:
+   'Access denied for user \'root\'@\'localhost\' (using password: YES)',
+  sqlState: '28000',
+  fatal: true }
+
+[2019/08/22:10.47.04] INFO file - creating pool
+
+[2019/08/22:10.47.05] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.47.05] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.47.27] INFO file - ====== execute sql ======
+
+[2019/08/22:10.47.27] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.47.27] ERROR file - { Error: ER_NO_SUCH_TABLE: Table 'chatdb.user' doesn't exist
+    at Query.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'chatdb.user\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'select count(*) as count from user where `email` = \'13690913946@163.com\'' }
+
+[2019/08/22:10.48.02] INFO file - creating pool
+
+[2019/08/22:10.48.02] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.48.02] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.48.05] INFO file - ====== execute sql ======
+
+[2019/08/22:10.48.05] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.48.05] ERROR file - { Error: ER_NO_SUCH_TABLE: Table 'chatdb.user' doesn't exist
+    at Query.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:53:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'chatdb.user\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'select count(*) as count from user where `email` = \'13690913946@163.com\'' }
+
+[2019/08/22:10.48.28] INFO file - creating pool
+
+[2019/08/22:10.48.28] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.48.28] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.48.30] INFO file - ====== execute sql ======
+
+[2019/08/22:10.48.30] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.48.30] ERROR file - { Error: ER_NO_SUCH_TABLE: Table 'chatdb.user' doesn't exist
+    at Query.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'chatdb.user\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'select count(*) as count from user where `email` = \'13690913946@163.com\'' }
+
+[2019/08/22:10.48.44] INFO file - creating pool
+
+[2019/08/22:10.48.44] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.48.44] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.48.49] INFO file - ====== execute sql ======
+
+[2019/08/22:10.48.49] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.48.49] ERROR file - { Error: ER_NO_SUCH_TABLE: Table 'chatdb.user' doesn't exist
+    at Query.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'chatdb.user\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'select count(*) as count from user where `email` = \'13690913946@163.com\'' }
+
+[2019/08/22:10.49.05] INFO file - creating pool
+
+[2019/08/22:10.49.05] INFO file - === app server running on port 3000===
+
+[2019/08/22:10.49.05] INFO file - === socket listening on port 3001 ===
+
+[2019/08/22:10.49.08] INFO file - ====== execute sql ======
+
+[2019/08/22:10.49.08] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.49.08] ERROR file - { Error: ER_NO_SUCH_TABLE: Table 'chatdb.user' doesn't exist
+    at Query.Sequence._packetToError (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:13:23)
+    at new Promise (<anonymous>)
+    at Object.next.(anonymous function).args [as count] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/daos/common.js:9:30)
+    at exports.register (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/controller/sign.js:52:33)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'chatdb.user\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'select count(*) as count from user where `email` = \'13690913946@163.com\'' }
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select ifnull(MAX(num),1000)+1 as num from user' ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'insert into user set ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    num: 1001,
+    salt: '1407971376921',
+    hash_password: 'ae3d07ad4d128de5e0c4906debe663ef',
+    email: '13690913946@163.com',
+    name: '13690913946@163.com',
+    nick: '13690913946@163.com' } ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.28] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.28] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.46] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.46] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:10.57.46] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.46] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.46] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.46] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.46] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.46] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.57.46] INFO file - ====== execute sql ======
+
+[2019/08/22:10.57.46] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.58.19] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.19] INFO file - [ 'select * from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.58.23] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.23] INFO file - [ 'select * from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:10.58.23] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.23] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:10.58.23] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.23] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.58.23] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.23] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.58.23] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.23] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.58.23] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.23] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.58.39] INFO file - ====== execute sql ======
+
+[2019/08/22:10.58.39] INFO file - [ 'update user set ? where id = ?',
+  [ { nick: '13690913946@163.com', signature: '' },
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select count(*) as count from user where ?',
+  { email: '112@163.com' } ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select ifnull(MAX(num),1000)+1 as num from user' ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'insert into user set ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    num: 1002,
+    salt: '77606972656',
+    hash_password: '4158e8087863af6b71db1ad5cbae8b45',
+    email: '112@163.com',
+    name: '112@163.com',
+    nick: '112@163.com' } ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.01] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.01] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.11] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.11] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:10.59.11] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.11] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.11] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.11] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.11] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.11] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.11] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.11] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.20] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.20] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:10.59.20] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.20] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.20] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.20] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.20] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.20] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:10.59.20] INFO file - ====== execute sql ======
+
+[2019/08/22:10.59.20] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.08] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.00.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.08] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.08] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.08] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.08] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.09] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.09] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.22] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.00.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.22] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.22] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.22] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.22] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.23] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.00.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.23] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.23] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.23] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.23] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.31] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.00.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.31] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.31] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.31] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.00.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.00.31] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.03] INFO file - [ 'select * from user where name like \'136%\' or name like \'%136%\' or nick like \'136%\' or nick like \'%136%\' or cast(num as char) like \'136%\'' ]
+
+[2019/08/22:11.01.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.03] INFO file - [ 'select a.*,b.nick as create_name from `group` a left join `user` b on a.create_id = b.id where a.name like \'136%\' or b.name like \'%136%\'' ]
+
+[2019/08/22:11.01.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.06] INFO file - [ 'insert into apply set ?',
+  { to_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    from_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.01.12] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.12] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.01.12] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.12] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.12] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.12] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.12] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.12] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.12] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.12] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.24] INFO file - [ 'select * from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:11.01.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.24] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.01.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.24] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.24] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.24] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.24] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.31] INFO file - ============ begin execute transaction ============
+
+[2019/08/22:11.01.31] INFO file - [ 'update apply set status = 1 where id = ? and to_id = ?',
+  [ 1, '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.31] INFO file - replace into user_friend values ('93c07210-c488-11e9-9dd0-2d29a9405d34','cb75c480-c488-11e9-9dd0-2d29a9405d34'),('cb75c480-c488-11e9-9dd0-2d29a9405d34','93c07210-c488-11e9-9dd0-2d29a9405d34')
+
+[2019/08/22:11.01.31] INFO file - ============ success executed transaction ============
+
+[2019/08/22:11.01.34] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.34] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.38] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.38] INFO file - [ 'insert into message set ?',
+  { send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    content: 'asfsadf' } ]
+
+[2019/08/22:11.01.38] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.38] INFO file - [ 'insert into user_message set ?',
+  { user_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 1,
+    is_read: 0 } ]
+
+[2019/08/22:11.01.42] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.42] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.01.42] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.42] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.42] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.42] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.42] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.42] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.42] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.42] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.51] INFO file - [ 'select * from user where ?', { email: '112@163.com' } ]
+
+[2019/08/22:11.01.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.51] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.01.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.51] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.51] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.51] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.51] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.55] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.55] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.01.55] INFO file - ====== execute sql ======
+
+[2019/08/22:11.01.55] INFO file - [ 'update user_message set is_read = 1 where user_id = ? and send_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.02] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.02] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: 'hjvkadsfd' } ]
+
+[2019/08/22:11.02.02] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.02] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 2,
+    is_read: 0 } ]
+
+[2019/08/22:11.02.19] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.19] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.02.19] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.19] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.19] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.19] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.19] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.19] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.19] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.19] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.25] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.25] INFO file - [ 'select * from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:11.02.25] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.25] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.02.25] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.25] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.25] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.25] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.25] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.25] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.25] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.25] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.29] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.29] INFO file - [ 'update user_message set is_read = 1 where user_id = ? and send_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.32] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.02.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.32] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.32] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.32] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.32] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.02.34] INFO file - ====== execute sql ======
+
+[2019/08/22:11.02.34] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.18] INFO file - [ 'select * from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:11.08.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.18] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.08.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.18] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.18] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.18] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.18] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.23] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.08.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.23] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.23] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.23] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.23] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.23] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.29] INFO file - [ 'select * from user where ?', { email: '112@163.com' } ]
+
+[2019/08/22:11.08.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.29] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.08.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.29] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.29] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.29] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.29] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.29] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.32] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.08.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.32] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.32] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.32] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.32] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.38] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.38] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.43] INFO file - [ 'insert into message set ?',
+  { send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    content: '哈哈' } ]
+
+[2019/08/22:11.08.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.43] INFO file - [ 'insert into user_message set ?',
+  { user_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 3,
+    is_read: 1 } ]
+
+[2019/08/22:11.08.45] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.45] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.45] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.45] INFO file - [ 'update user_message set is_read = 1 where user_id = ? and send_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.08.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.51] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: '啊啊发生' } ]
+
+[2019/08/22:11.08.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.51] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 4,
+    is_read: 1 } ]
+
+[2019/08/22:11.08.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.54] INFO file - [ 'insert into message set ?',
+  { send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    content: '撒地方放' } ]
+
+[2019/08/22:11.08.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.08.54] INFO file - [ 'insert into user_message set ?',
+  { user_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 5,
+    is_read: 1 } ]
+
+[2019/08/22:11.20.37] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.37] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: '大噶来自' } ]
+
+[2019/08/22:11.20.37] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.37] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 6,
+    is_read: 0 } ]
+
+[2019/08/22:11.20.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.54] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.20.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.54] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.20.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.54] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.20.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.54] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.20.54] INFO file - ====== execute sql ======
+
+[2019/08/22:11.20.54] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.03] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.21.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.03] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.03] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.03] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.03] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.03] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.06] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.06] INFO file - [ 'update user_message set is_read = 1 where user_id = ? and send_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.08] INFO file - [ 'insert into message set ?',
+  { send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    content: '苏打粉' } ]
+
+[2019/08/22:11.21.08] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.08] INFO file - [ 'insert into user_message set ?',
+  { user_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    send_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 7,
+    is_read: 1 } ]
+
+[2019/08/22:11.21.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.18] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.21.18] INFO file - ====== execute sql ======
+
+[2019/08/22:11.21.18] INFO file - [ 'update user_message set is_read = 1 where user_id = ? and send_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.22.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.22.31] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.22.32] INFO file - ====== execute sql ======
+
+[2019/08/22:11.22.32] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.22.33] INFO file - ====== execute sql ======
+
+[2019/08/22:11.22.33] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.22.33] INFO file - ====== execute sql ======
+
+[2019/08/22:11.22.33] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.22.37] INFO file - ====== execute sql ======
+
+[2019/08/22:11.22.37] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.37.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.35] INFO file - [ 'select * from user where name like \'1%\' or name like \'%1%\' or nick like \'1%\' or nick like \'%1%\' or cast(num as char) like \'1%\'' ]
+
+[2019/08/22:11.37.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.35] INFO file - [ 'select a.*,b.nick as create_name from `group` a left join `user` b on a.create_id = b.id where a.name like \'1%\' or b.name like \'%1%\'' ]
+
+[2019/08/22:11.37.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.43] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.37.44] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.44] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.37.45] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.45] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.37.45] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.45] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.37.48] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.48] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.37.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.51] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: '发送' } ]
+
+[2019/08/22:11.37.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.51] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 8,
+    is_read: 1 } ]
+
+[2019/08/22:11.37.58] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.58] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: '苏打粉' } ]
+
+[2019/08/22:11.37.58] INFO file - ====== execute sql ======
+
+[2019/08/22:11.37.58] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 9,
+    is_read: 1 } ]
+
+[2019/08/22:11.38.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.38.22] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: '收到' } ]
+
+[2019/08/22:11.38.22] INFO file - ====== execute sql ======
+
+[2019/08/22:11.38.22] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 10,
+    is_read: 1 } ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.24] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.24] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.31] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.31] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.31] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.31] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.31] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.31] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.35] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.35] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.35] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.35] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.35] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.35] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.47] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.47] INFO file - [ 'select * from user where ?',
+  { email: '13690913946@163.com' } ]
+
+[2019/08/22:11.39.47] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.47] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.47] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.47] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.47] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.47] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.47] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.47] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.47] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.47] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.49] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.49] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.49] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.49] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.49] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.49] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.49] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.49] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.49] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.49] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.51] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.39.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.51] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.51] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.51] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.39.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.39.51] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.06] INFO file - [ 'select * from user where ?', { email: '112@163.com' } ]
+
+[2019/08/22:11.40.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.06] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.40.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.06] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.06] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.06] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.06] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.06] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.10] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.10] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.13] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.13] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.40.13] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.13] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.13] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.13] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.13] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.13] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.13] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.13] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.36] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.36] INFO file - [ 'select * from user where ?', { email: '112@163.com' } ]
+
+[2019/08/22:11.40.36] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.36] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.40.36] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.36] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.36] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.36] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.36] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.36] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.36] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.36] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.41] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.41] INFO file - [ 'select * from message where send_id in(?,?) and receive_id in(?,?) limit 30',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.43] INFO file - [ 'select * from user where ?',
+  { id: '93c07210-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/22:11.40.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.43] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.43] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.43] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.43] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.43] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ '93c07210-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/22:11.40.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.51] INFO file - [ 'insert into message set ?',
+  { send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    receive_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    content: 'sdafasdf' } ]
+
+[2019/08/22:11.40.51] INFO file - ====== execute sql ======
+
+[2019/08/22:11.40.51] INFO file - [ 'insert into user_message set ?',
+  { user_id: '93c07210-c488-11e9-9dd0-2d29a9405d34',
+    send_id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34',
+    message_id: 11,
+    is_read: 1 } ]
+
+[2019/08/22:13.43.43] ERROR file - { TokenExpiredError: jwt expired
+    at /Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/jsonwebtoken/verify.js:152:21
+    at getSecret (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/jsonwebtoken/verify.js:94:10)
+    at Array.module.exports (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/server/socket/auth.js:18:19)
+    at run (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/socket.io/lib/namespace.js:124:11)
+    at Namespace.run (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/socket.io/lib/namespace.js:136:3)
+    at Namespace.add (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/socket.io/lib/namespace.js:164:8)
+    at Client.doConnect (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/socket.io/lib/client.js:97:20)
+    at Client.connect (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/socket.io/lib/client.js:66:17)
+    at Server.onconnection (/Users/helloworld/Documents/ghost/work/coding/webscoket/vue_qq/node_modules/socket.io/lib/index.js:435:10)
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2019-08-22T04:40:36.000Z }
+
