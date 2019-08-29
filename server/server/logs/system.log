@@ -8651,3 +8651,74 @@
 [2019/08/26:16.13.48] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
   [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
 
+[2019/08/26:16.15.07] INFO file - ====== execute sql ======
+
+[2019/08/26:16.15.07] INFO file - [ 'select * from user where ?',
+  { id: 'cb75c480-c488-11e9-9dd0-2d29a9405d34' } ]
+
+[2019/08/26:16.15.07] INFO file - ====== execute sql ======
+
+[2019/08/26:16.15.07] INFO file - [ 'select b.* from user_friend a join user b on a.friend_id = b.id where a.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/26:16.15.07] INFO file - ====== execute sql ======
+
+[2019/08/26:16.15.07] INFO file - [ 'select a.*,c.nick as create_name from `group` a join `user_group` b on a.id = b.group_id left join user c on a.create_id = c.id where b.user_id = ?',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/26:16.15.07] INFO file - ====== execute sql ======
+
+[2019/08/26:16.15.07] INFO file - [ 'select a.*, c.name as group_name, b.nick, b.avatar, b.email, b.signature, b.num from `apply` a join `user` b on a.from_id = b.id left join `group` c on a.group_id = c.id where to_id = ? order by create_date desc',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/26:16.15.07] INFO file - ====== execute sql ======
+
+[2019/08/26:16.15.07] INFO file - [ 'select send_id as id, count(*) as count from user_message where is_read = 0 and user_id = ? group by send_id',
+  [ 'cb75c480-c488-11e9-9dd0-2d29a9405d34' ] ]
+
+[2019/08/26:16.52.55] ERROR file - { TokenExpiredError: jwt expired
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/jsonwebtoken/verify.js:152:21
+    at getSecret (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/jsonwebtoken/verify.js:94:10)
+    at Object.ctx.verify (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/src/middleware/jwt.js:23:37)
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/src/middleware/verify.js:16:33
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/src/middleware/jwt.js:33:15
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:45:18)
+    at cors (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa2-cors/dist/index.js:91:15)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:36:12
+    at Server.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa2/lib/application.js:138:7)
+    at Server.emit (events.js:182:13)
+    at parserOnIncoming (_http_server.js:672:12)
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2019-08-26T08:21:10.000Z,
+  isValid: false,
+  url: '/api/getinfo' }
+
+[2019/08/26:16.52.55] ERROR file - { TokenExpiredError: jwt expired
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/jsonwebtoken/verify.js:152:21
+    at getSecret (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/jsonwebtoken/verify.js:94:10)
+    at Object.ctx.verify (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/src/middleware/jwt.js:23:37)
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/src/middleware/verify.js:16:33
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/src/middleware/jwt.js:33:15
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:45:18)
+    at cors (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa2-cors/dist/index.js:91:15)
+    at dispatch (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa-compose/index.js:36:12
+    at Server.<anonymous> (/Users/helloworld/Documents/ghost/work/coding/vue_websocket_js/server/node_modules/koa2/lib/application.js:138:7)
+    at Server.emit (events.js:182:13)
+    at parserOnIncoming (_http_server.js:672:12)
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2019-08-26T08:19:41.000Z,
+  isValid: false,
+  url: '/api/getinfo' }
+
